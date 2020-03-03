@@ -1,4 +1,4 @@
-# undefined
+# stripeApp
 
 ## Table of Contents
 
